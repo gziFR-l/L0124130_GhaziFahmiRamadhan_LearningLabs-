@@ -1,0 +1,289 @@
+INI ADALAH KODE UNTUK INDEX NYA
+<!DOCTYPE html
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Sejarah Napoleon </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>GZI</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="content.html">Penjelasan</a></li>
+            <li><a href="feedback.html">Feedback</a></li>
+        </ul>
+    </nav>
+</header>
+
+<div class="animated-background">
+    
+    <div class="particle"></div>
+    <div class="particle"></div>
+    <div class="particle"></div>
+    
+</div>
+
+<main>
+    <section>
+        <h2> Selamat Datang di Website Sejarah Dari GZI </h2>
+        <p> silahkan untuk browsing disini </p>
+       <center>  <img src="c:\Users\user\OneDrive\Pictures\Saved Pictures\86_Key_Visual_3.webp" alt="86 - Eighty-Six" width="600"> </center>
+    </section>
+</main>
+
+<footer>
+    <p>Learning Labs 2024 | L0124130 | Ghazi Fahmi Ramadhan</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+INI ADALAH KODE UNTUK ISI KONTENNYA
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sejarah Napoleon - Konten Utama</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1> Sejarah </h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="content.html">Penjelasan</a></li>
+            <li><a href="feedback.html">Feedback</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    
+    <section>
+       <center> <h2>Kehebatan Napoleon Dalam Sejarah Dunia</h2> </center>
+        <article>
+            <h3>Kehebatan Dalam Menaklukkan Jerman</h3>
+            <p1>Napoleon Bonaparte memiliki kehebatan militer yang luar biasa yang memungkinkan dirinya dan pasukan Prancis untuk menduduki wilayah Jerman pada awal abad ke-19. Berikut adalah beberapa faktor yang membuat Napoleon unggul dalam kampanye militer di Jerman:
+
+                 Taktik Militer Inovatif: Napoleon terkenal dengan taktik militernya yang inovatif, termasuk penggunaan "manuver di tengah" untuk memecah kekuatan lawan, lalu menghancurkannya dalam bagian-bagian terpisah. Dia juga memanfaatkan formasi korps, di mana setiap korps bertindak sebagai unit otonom yang dapat bergerak dan bertempur secara independen, tetapi tetap bisa bergabung dengan pasukan utama ketika diperlukan. Pendekatan ini membuat pasukannya lebih fleksibel dan lebih sulit ditebak oleh musuh.</p1>
+                
+                 <p2>Kecepatan dan Mobilitas: Salah satu kekuatan utama Napoleon adalah kemampuannya untuk menggerakkan pasukannya dengan cepat. Dia memanfaatkan jalan-jalan baru dan melakukan gerak cepat, sering kali mengalahkan lawan dengan tiba-tiba. Kecepatan ini memberikan keuntungan taktis karena memungkinkan dia menyerang sebelum musuh memiliki kesempatan untuk berkumpul dan mempersiapkan pertahanan.</p2>
+                
+                 <p3>Strategi Politik dan Aliansi: Napoleon tidak hanya unggul di medan perang, tetapi juga mahir dalam strategi diplomasi. Melalui pembentukan aliansi dan kekuatan politik, dia berhasil mengisolasi musuh-musuhnya. Dalam kampanye di Jerman, dia mendirikan Konfederasi Rhine, sebuah federasi negara-negara Jerman yang menjadi sekutu Prancis, yang menggantikan Kekaisaran Romawi Suci dan memperlemah kekuatan Austria serta Prusia. </p3>
+            
+                 <p4>Pemanfaatan Propaganda: Napoleon sangat pandai dalam menggunakan propaganda untuk mendukung ambisi politiknya. Dia membangun citra sebagai pembebas bagi beberapa wilayah di Jerman, yang ingin merdeka dari kekuasaan Austria atau Kekaisaran Romawi Suci. Walaupun akhirnya wilayah-wilayah ini berada di bawah pengaruh Prancis, pendekatan ini menciptakan dukungan lokal dan mengurangi perlawanan.</p4>
+                
+                 <p5>Kemampuan Logistik: Napoleon memahami pentingnya logistik untuk mendukung pasukan besar dalam perang yang berkepanjangan. Dalam kampanye Jerman, ia menerapkan sistem foraging, yang memungkinkan pasukannya mendapatkan persediaan langsung dari wilayah yang diduduki, sehingga tidak terlalu bergantung pada garis suplai yang panjang. Hal ini mempercepat pergerakan dan mengurangi kebutuhan untuk mengangkut persediaan dari Prancis.</p5>
+                
+                 <p6>Mengalahkan Austria dan Prusia secara Bertahap: Napoleon menggunakan pendekatan bertahap dalam menaklukkan Jerman. Pada tahun 1805, ia mengalahkan Austria dalam Pertempuran Ulm, dan setahun kemudian, pada tahun 1806, dia mengalahkan Prusia dalam Pertempuran Jena–Auerstedt. Keberhasilan ini menghancurkan kekuatan militer utama di Jerman, memberi Prancis kendali hampir penuh atas wilayah tersebut.</p6>
+                
+                 <p7>Kemampuan Menginspirasi Pasukan: Napoleon dikenal karena kemampuannya dalam memotivasi dan menginspirasi prajurit-prajuritnya. Pasukannya terkenal setia dan penuh semangat, karena banyak dari mereka percaya pada gagasan Revolusi Prancis dan melihat Napoleon sebagai pemimpin yang akan membawa kejayaan Prancis.</p7>
+                
+                
+        </article>
+        <article>
+        <h3>Kehebatan Dalam Menaklukkan Spanyol</h3> 
+            <p>Napoleon Bonaparte juga menunjukkan kehebatannya dalam upaya menaklukkan Spanyol, meskipun ini menjadi salah satu kampanye yang lebih menantang bagi kekaisarannya. Berikut adalah beberapa keunggulan Napoleon dalam menginvasi dan menduduki Spanyol:
+
+                Manuver Politik untuk Mengontrol Kerajaan Spanyol: Napoleon memulai penaklukan Spanyol bukan melalui perang langsung, tetapi melalui strategi politik. Pada tahun 1808, ia mengundang Raja Charles IV dari Spanyol dan putranya Ferdinand VII ke Bayonne, Prancis, dan memaksa mereka menyerahkan takhta kepada saudaranya, Joseph Bonaparte. Melalui manipulasi politik ini, Napoleon berhasil menggantikan penguasa Spanyol tanpa perlawanan awal yang berarti.
+                
+                Kendali Jalur Strategis untuk Memperkuat Blokade Kontinental: Dengan menguasai Spanyol, Napoleon berusaha memperketat Blokade Kontinental terhadap Inggris. Spanyol dan Portugal adalah jalur penting untuk perdagangan Inggris ke Eropa. Dengan menguasai Semenanjung Iberia, Napoleon berharap dapat menutup celah dalam blokade, yang dirancang untuk melemahkan ekonomi Inggris dengan memutus jalur perdagangannya di Eropa.
+                
+                Penempatan Pasukan dalam Jumlah Besar: Napoleon menempatkan banyak pasukan berpengalaman di Spanyol, yang dikenal sebagai Grande Armée. Dengan ribuan tentara veteran yang sudah berpengalaman dalam Perang Koalisi, Napoleon berharap bisa dengan cepat menaklukkan Spanyol dan Portugal. Pasukan ini terdiri dari korps Prancis yang memiliki formasi dan persenjataan modern, memberikan keunggulan taktis di medan tempur.
+                
+                Taktik Cepat dan Agresif di Awal Kampanye: Dalam beberapa pertempuran awal, Napoleon menunjukkan kehebatannya dengan menggunakan taktik gerak cepat untuk mengalahkan pasukan Spanyol yang tidak terkoordinasi dengan baik. Salah satu contoh utamanya adalah Pertempuran Somosierra pada tahun 1808, di mana pasukan Prancis berhasil merebut posisi Spanyol dalam waktu singkat. Kecepatan dan ketepatan serangan ini membuat Prancis mampu menguasai Madrid dan sebagian besar wilayah utama Spanyol.
+                
+                Penggunaan Kekuatan Terpusat Melawan Tentara Konvensional: Tentara Napoleon memiliki struktur komando yang kuat dan berdisiplin. Pada awal kampanye, tentara reguler Spanyol sulit bersaing dengan kemampuan taktis Prancis. Dalam beberapa bentrokan besar, Napoleon mampu memecah kekuatan utama Spanyol, yang umumnya tidak terorganisir sebaik pasukan Prancis. Ini memberikan keuntungan signifikan pada fase awal pendudukan.
+                
+                Namun, meskipun kehebatannya terlihat di awal invasi, kampanye di Spanyol tidak berjalan mulus, dan ini disebabkan oleh beberapa faktor yang berlawanan dengan kekuatan Napoleon:
+                
+                Perlawanan Gerilya: Pasukan Spanyol dan rakyatnya menerapkan taktik gerilya, menyerang pasukan Prancis secara acak dan menghancurkan logistik mereka. Taktik ini sangat merusak moral dan efisiensi pasukan Napoleon, karena sulit memprediksi serangan dan mengendalikan wilayah secara efektif.
+                
+                Keterlibatan Inggris: Inggris, di bawah komando Duke of Wellington, mengirim pasukan untuk membantu Spanyol dalam melawan Prancis. Pasukan Inggris-Spanyol-Portugis ini terorganisir dengan baik dan menjadi lawan tangguh bagi Napoleon. Kemenangan Wellington dalam Pertempuran Talavera dan pertempuran lainnya semakin melemahkan posisi Napoleon.
+                
+                Kesulitan Logistik dan Moral: Jarak yang jauh dari Prancis, sulitnya memasok pasukan, dan perlawanan berkelanjutan dari rakyat Spanyol menguras sumber daya dan moral tentara Napoleon. Kesulitan ini menyebabkan mundurnya pasukan Prancis dari Spanyol dan akhirnya melemahkan posisi Napoleon di Eropa.</p>
+        </article>
+    </section>
+</main>
+
+<footer>
+    <p>Learning Labs 2024 | L0124130 | Ghazi Fahmi Ramadhan</p>
+</footer>
+
+</body>
+</html>
+
+
+
+INI ADALAH KODE UNTUK FEEDBACKNYA
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1> Sejarah Napoleon </h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="content.html">Penjelasan</a></li>
+            <li><a href="feedback.html">Feedback</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    
+    <section>
+        <h2>Feedback</h2>
+        <form>
+            <label for="name">Nama:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Pesan:</label>
+            <textarea id="message" name="message" required></textarea>
+
+            <button type="submit">Kirim</button>
+        </form>
+    </section>
+</main>
+
+<footer>
+    <p>Learning Labs 2024 | L0124130 | Ghazi Fahmi Ramadhan</p>
+</footer>
+
+</body>
+</html>
+
+
+
+INI ADALAH KODE UNTUK CSS
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+}
+
+header, footer {
+    background-color: #222;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.animated-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d); /* Adjust colors as needed */
+    z-index: -1;
+}
+
+
+.particle {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    animation: floatAnimation 10s infinite ease-in-out;
+}
+
+
+.particle:nth-child(1) {
+    top: 20%;
+    left: 30%;
+    width: 80px;
+    height: 80px;
+    animation-delay: 0s;
+}
+.particle:nth-child(2) {
+    top: 50%;
+    left: 70%;
+    width: 100px;
+    height: 100px;
+    animation-delay: 3s;
+}
+.particle:nth-child(3) {
+    top: 80%;
+    left: 20%;
+    width: 70px;
+    height: 70px;
+    animation-delay: 6s;
+}
+
+
+@keyframes floatAnimation {
+    0%, 100% {
+        transform: translateY(0) rotate(0deg) scale(1);
+    }
+    50% {
+        transform: translateY(-20px) rotate(180deg) scale(1.1);
+    }
+}
+
+
+
+INI KODE UNTUK JAVASCRIPTNYA
+
+document.addEventListener("DOMContentLoaded", function () {
+    const form = document.querySelector("form");
+    form.addEventListener("submit", function (event) {
+        event.preventDefault();
+        alert("Terima kasih atas feedback Anda!");
+    });
+});
